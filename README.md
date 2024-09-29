@@ -5,7 +5,7 @@
 
 Marketing-TailwindCSS-Templet is a Static React-Vite Frontend Landing Page, using React-Vite, TailwindCSS, Framer-Motion, React-Animate, React-Icons, and deployed on Netlify.
 
-**Note: To check this web app live, click here:** 
+**Note: To check this web app live, click here:** https://marketing-arnob.netlify.app
 
 ## To Install Dependencies
 
